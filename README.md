@@ -26,7 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: (https://www.frontendmentor.io/solutions/general-design-using-tailwind-responsive-landing-page-using-flexbox--OhdxFKQXo)
+
 - Live Site URL: (https://faqs-application.netlify.app/)
 
 ## My process
