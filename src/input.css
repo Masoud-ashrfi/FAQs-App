@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  @font-face {
+    font-family: "WorkSans Bold";
+    src: local("WorkSans"),
+      url("../public/fonts/static/WorkSans-Bold.ttf") format("ttf");
+    font-display: swap;
+  }
+  @font-face {
+    font-family: "WorkSans Regular";
+    src: local("WorkSans"),
+      url("../public/fonts/static/WorkSans-Regular.ttf") format("ttf");
+    font-display: swap;
+  }
+  @font-face {
+    font-family: "WorkSans SemiBold";
+    src: local("WorkSans"),
+      url("../public/fonts/static/WorkSans-SemiBold.ttf") format("ttf");
+    font-display: swap;
+  }
+}
